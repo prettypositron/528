@@ -1,12 +1,13 @@
 ---
 layout: post
-title:	"Redimensionar partições LVM"
-date:	2017-04-11 03:00:00
+title:	"Ritual"
+date:	2020-06-13 11:26:00
 categories:
     - blog
 tags:
-    - linux
-    - lvm
+    - ritual
+    - nootropics
+    - triclosan
 ---
 
 # Wake up: Hygiene
