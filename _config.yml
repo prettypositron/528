@@ -6,17 +6,17 @@ url: "https://prettypositron.github.io/"
 disqus:
 
 # Header settings
-nick: "prettypositron"
-mail:
+#nick: "prettypositron"
+#mail:
     domain: "protonmail"
     ext: "ch"
-source_code:
+#source_code:
     server: "github.com"
     nick: "prettypositron"
-blog:
+#blog:
     server: "wordpress.com"
     nick: "prettypositron"
-fingerprint_key: "5E12 9ABC C2A9 564B C048  2DF9 D327 0D10 BC71 CF75"
+#fingerprint_key: "5E12 9ABC C2A9 564B C048  2DF9 D327 0D10 BC71 CF75"
 
 # Build settings
 markdown: kramdown
