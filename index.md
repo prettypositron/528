@@ -6,5 +6,4 @@ layout: content
 
 ### About
 
-This is a blog to document my preparation for the MCAT.
-
+Welcome to Valhalla! This is my journey to 100th percentile. 
