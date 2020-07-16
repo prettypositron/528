@@ -8,9 +8,9 @@ tags:
     - nootropics
 ---
 
-#Nootropics v. Stimulants
+# Nootropics v. Stimulants
 
-####Amphetamines, Methylphenidate, Modafinil, Caffeine, NIcotine. 
+#### Amphetamines, Methylphenidate, Modafinil, Caffeine, NIcotine. 
 
 They act as direct agonists or indirect agonists of dopamine receptor D<sub>1</sub>, \alpha-2 adrenoceptor, or both receptors in the PFC. Systematic reviews and meta-analyses report that these improve performance on working memory, episodic memory, inhibitory control, and task saliency (motivation to perform a task) and performance on tedious tasks that require a high degree of effort.
 
