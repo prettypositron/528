@@ -1,11 +1,12 @@
 ---
 layout: post
-title:	"Nootropics"
+title:	"Becoming Smarter"
 date:	2020-07-16 07:10:00
 categories:
     - blog
 tags:
     - nootropics
+    - becoming smarter
 ---
 
 # Nootropics v. Stimulants
@@ -54,7 +55,11 @@ from major chronic diseases. Strength training provoked a signifcant increase in
 #### TMS
 
 - Excitatory rTMS to left-DLPFC increases neural efficiency.
-- Improves Memory (working, episodic, logical), processing skills, 
+- Improves Memory (working, episodic, logical), processing skills.
+
+#### Dual N-Back Tests
+
+- Improves working memory
 
 ---
 
@@ -101,3 +106,4 @@ https://www.sciencedirect.com/science/article/pii/S1364661319300427?casa_token=c
 https://www.sciencedirect.com/science/article/pii/S1364661319300233?casa_token=KfkreiDNHNAAAAAA:lkk5cPRKXgUSYMCqhNZ5SBzXa8uXdLpyUqmo0GI_OGL0U_x_viV3uxToSsC8_UhaTL7w3YYY
 https://www.sciencedirect.com/science/article/pii/S2666337620300056
 https://www.sciencedirect.com/science/article/pii/S1053811919304033?casa_token=ijA2azMeWFcAAAAA:d6wc6K7Rx3DVDtIjKTiBUySUpuKnD9eQPE6Yy1NznHyEOVO7KePfu58utRU1ePD-l6-QNNeu
+https://www.ingentaconnect.com/contentone/ben/cas/2020/00000013/00000001/art00009
