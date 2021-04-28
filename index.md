@@ -6,4 +6,4 @@ layout: content
 
 ### About
 
-Welcome to Valhalla! This is my journey to 100th percentile. 
+Welcome to Valhalla!  
